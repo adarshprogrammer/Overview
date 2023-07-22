@@ -8,10 +8,6 @@
 
 [![Rating](https://img.shields.io/amo/stars/dustman)](https://github.com/adarshprogrammer)
 
-[![youtube](https://img.shields.io/youtube/channel/views/UCPOBQjBYfP1w91Z77pZLbFg?label=youtube&style=social)](https://www.youtube.com/channel/UCPOBQjBYfP1w91Z77pZLbFg)
-
-[![youtube](https://img.shields.io/powershellgallery/dt/Azure.Storage)](https://github.com/adarshprogrammer)
-
 <br>
 <br>
 
